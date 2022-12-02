@@ -1,0 +1,70 @@
+{  
+
+    "dashboard": {
+
+        "posts" : 5,
+        "likes" : 100,
+        "followers" : 20,
+        "following" : 50
+    },
+
+    "news" : [
+
+        {
+            "id" : 1,
+            "title" : "news 1" ,
+            "price" : 1000,
+            "description" : "Politics"
+
+        }, 
+        
+        
+        {
+            "id" : 2,
+            "title" : "news 2" ,
+            "price" : 2000,
+            "description" : "sports"
+
+        },   
+
+
+        
+        {
+            "id" : 3,
+            "title" : "news 3" ,
+            "price" : 3000,
+            "description" : "artists"
+
+        }   
+    ],
+
+    "products" : [
+
+        {
+            "id" : 1,
+            "title" : "Product 1" ,
+            "price" : 1000,
+            "description" : "Description"
+
+        }, 
+        
+        
+        {
+            "id" : 2,
+            "title" : "Product 2" ,
+            "price" : 2000,
+            "description" : "Description"
+
+        },   
+
+
+        
+        {
+            "id" : 3,
+            "title" : "Product 3" ,
+            "price" : 3000,
+            "description" : "Description"
+
+        }   
+    ]
+}
